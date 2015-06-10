@@ -21,6 +21,7 @@
             </feature>
     </config-file>
         <header-file src="src/ios/MobClick.h" target-dir="src/ios" />
+        <header-file src="src/ios/MobClickSocialAnalytics.h" target-dir="src/ios" />
         <source-file src="src/ios/libMobClickLibrary.a" framework="true" />
 
         <framework src="libz.dylib" weak="true" />
